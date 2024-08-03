@@ -4,7 +4,7 @@
 💡 I am a data science and software developer enthusiast, currently advancing my expertise through a Master's in Computer Science at North Carolina State University. At the North Carolina Institute of Climate Studies, I am working as a Machine Learning Engineer on an innovative anomaly detection project leveraging real-time NOAA data. My academic journey began with a Bachelor's degree in Computer Science and Engineering from Ahmedabad University, where I also specialized in Business Analytics. I am passionate about delving deeper into the realms of Artificial Intelligence, Natural Language Processing, and Cloud Computing. Beyond my professional pursuits, I find joy in exploring cutting-edge technologies, engaging in esports, and participating in various outdoor activities. I am always open to consulting opportunities, collaborative projects, and engaging discussions on these exciting topics. Feel free to reach out to me at hppatel4@ncsu.edu, and I will respond promptly!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/homakpatel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Homak P) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/homakpatel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@homak.p) 
 
 ## Resume
 
