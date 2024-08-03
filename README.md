@@ -1,66 +1,32 @@
 ![Homak Patel Banner](HomakPatel_Banner.gif)
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eHomakPatel_Banner.gifb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=Homak-Patel&color=red)&nbsp;
-[![GitHub Homak-Patel](https://img.shields.io/github/followers/Homak-Patel?label=follow&style=social)](https://github.com/Homak-Patel)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-
+# 💫 About Me:
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a aspiring data scientist and software developer, currently pursuing my Master's in Computer Science at North Carolina State University.\
-💻 &nbsp;I'm working on an anomaly detection project using real-time NOAA data at the North Carolina Institute of Climate Studies.\
-🎓 &nbsp;I graduated from Ahmedabad University with a Bachelor's degree in Computer Science and Engineering, with a minor in Business Analytics.\
-🌱 &nbsp;I'm on track for learning more about LLMs, Artificial Intelligence, Natural Language Processing, and Cloud Computing.\
-✍️ &nbsp;In my free time, I enjoy exploring new technologies, playing esports, and engaging in outdoor activities.\
-💬 &nbsp;Feel free to reach out to me for consulting, collaborations, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at hppatel4@ncsu.edu. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/homakpatel/) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=c5H8dRYAAAAJ&view_op=list_works&authuser=2&gmla=AETOMgE-Tu1pYMXU-b4ZShubrwDBl58F6vKShcL8YdTevht7CyJcDmxU0uroQE0VjvHGJObS0o5GP2xpmcOlCXGg) for more details about my work experience and publications.
+💡 &nbsp;I'm a aspiring data scientist and software developer, currently pursuing my Master's in Computer Science at North Carolina State University.\<br>
+💻 &nbsp;I'm working on an anomaly detection project using real-time NOAA data at the North Carolina Institute of Climate Studies.\<br>
+🎓 &nbsp;I graduated from Ahmedabad University with a Bachelor's degree in Computer Science and Engineering, with a minor in Business Analytics.\<br>
+🌱 &nbsp;I'm on track for learning more about LLMs, Artificial Intelligence, Natural Language Processing, and Cloud Computing.\<br>
+✍️ &nbsp;In my free time, I enjoy exploring new technologies, playing esports, and engaging in outdoor activities.\<br>
+💬 &nbsp;Feel free to reach out to me for consulting, collaborations, or discussions on the aforementioned topics!\<br>
+✉️ &nbsp;You can email me at hppatel4@ncsu.edu. I'll try to respond as soon as possible!\ <br>
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/homakpatel/) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=c5H8dRYAAAAJ&view_op=list_works&authuser=2&gmla=AETOMgE-Tu1pYMXU-b4ZShubrwDBl58F6vKShcL8YdTevht7CyJcDmxU0uroQE0VjvHGJObS0o5GP2xpmcOlCXGg) for more details about my work experience and publications.<br>
 
-### 📄 &nbsp;Resume
 
-You can view my resume [here](https://drive.google.com/file/d/1Ib9PY_fPWdxYMqSg3XGlH9aDR-be5znf/view?usp=drive_link).
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/homakpatel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Homak P) 
 
-### 🛠 &nbsp;Tech Stack
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Homak-Patel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Homak-Patel&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Homak-Patel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Homak-Patel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+---
+[![](https://visitcount.itsvg.in/api?id=Homak-Patel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-
-![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-05122A?style=flat&logo=amazon-aws)&nbsp;
-![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-05122A?style=flat&logo=amazon-aws)&nbsp;
-![ETL](https://img.shields.io/badge/-ETL-05122A?style=flat&logo=data)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=continuous-integration)&nbsp;
-![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
-![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=machine-learning)&nbsp;
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=deep-learning)&nbsp;
-
-### 📫 &nbsp;How to reach me:
-
-<a href="https://www.linkedin.com/in/homakpatel/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:hppatel4@ncsu.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
