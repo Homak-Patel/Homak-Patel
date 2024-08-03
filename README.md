@@ -3,15 +3,6 @@
 # 💫 About Me:
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a aspiring data scientist and software developer, currently pursuing my Master's in Computer Science at North Carolina State University.\<br>
-💻 &nbsp;I'm working on an anomaly detection project using real-time NOAA data at the North Carolina Institute of Climate Studies.\<br>
-🎓 &nbsp;I graduated from Ahmedabad University with a Bachelor's degree in Computer Science and Engineering, with a minor in Business Analytics.\<br>
-🌱 &nbsp;I'm on track for learning more about LLMs, Artificial Intelligence, Natural Language Processing, and Cloud Computing.\<br>
-✍️ &nbsp;In my free time, I enjoy exploring new technologies, playing esports, and engaging in outdoor activities.\<br>
-💬 &nbsp;Feel free to reach out to me for consulting, collaborations, or discussions on the aforementioned topics!\<br>
-✉️ &nbsp;You can email me at hppatel4@ncsu.edu. I'll try to respond as soon as possible!\ <br>
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/homakpatel/) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=c5H8dRYAAAAJ&view_op=list_works&authuser=2&gmla=AETOMgE-Tu1pYMXU-b4ZShubrwDBl58F6vKShcL8YdTevht7CyJcDmxU0uroQE0VjvHGJObS0o5GP2xpmcOlCXGg) for more details about my work experience and publications.<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/homakpatel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Homak P) 
