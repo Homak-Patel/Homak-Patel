@@ -23,7 +23,7 @@ Let’s connect if you're working in AI, distributed systems, or cloud-native pl
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@homak.p)
 
 ## 📄 Resume:
-[Click here to view my resume](https://drive.google.com/file/d/17q7pXnrC2P5g6-8e1SuF_OvtD59YCCI9/view)
+[Click here to view my resume](https://drive.google.com/file/d/1SaN9670IhYQkQx1tGJn2cKW6Yt54QhgK/view?usp=sharing)
 
 ---
 
